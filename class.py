@@ -95,5 +95,3 @@ print(my_dog.sleep())  # Buddy is sleeping
 
 # Dog can also do many dog things
 print(my_dog.bark())   # Buddy says woof!
-
-print(jerry.name)
